@@ -9,17 +9,17 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
-  puts student_names[0]
+  puts student_names["Adele"]
 end
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
-  puts student_names[3]
+  puts student_names["Lady Gaga"]
 end
 
 def last_student_by_index
   # Write a solution that returns the first student in the array student_names
-  puts student_names[5]
+  puts student_names["Rihanna"]
 end
 
 def first_student_by_method
